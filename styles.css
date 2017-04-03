@@ -63,7 +63,7 @@ body {
 }
 
 .counter {
-	font-size: 42px;
+	font-size: 42px !important;
 	color: red;
 	padding:0;
 }
