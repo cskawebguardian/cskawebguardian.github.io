@@ -57,6 +57,17 @@ body {
     margin: 0 auto;
    
 }
+
+.wrapper p {
+	text-align: center;
+}
+
+.counter {
+	font-size: 42px;
+	color: red;
+	padding:0;
+}
+
 #logo {
   
     margin: 0 auto;
