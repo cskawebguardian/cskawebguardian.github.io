@@ -1,6 +1,6 @@
 
 body {  
-    background-image: url("chrome-extension://__MSG_@@extension_id__/background.jpg") !important;
+    background-image: url("/background.jpg") !important;
     background-size: cover;
     color: #fff;
 }
