@@ -66,6 +66,7 @@ body {
 	font-size: 42px !important;
 	color: red;
 	padding:0 !important;
+	paddint-top:0 !important;
 }
 
 #logo {
