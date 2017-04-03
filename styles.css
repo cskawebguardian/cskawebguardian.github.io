@@ -1,0 +1,71 @@
+
+body {  
+    background-image: url("chrome-extension://__MSG_@@extension_id__/background.jpg") !important;
+    background-size: cover;
+    color: #fff;
+}
+.wrapper {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #fff;
+    -webkit-box-shadow: -1px 0px 21px 5px rgba(0,0,0,0.21);
+    -moz-box-shadow: -1px 0px 21px 5px rgba(0,0,0,0.21);
+    box-shadow: -1px 0px 21px 5px rgba(0,0,0,0.21);
+    color: #333;
+    padding: 20px;
+    
+}
+.wrapper h1 {
+    color: #f10101;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.wrapper h2 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.wrapper p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: 19px;
+    line-height: 1.4;
+    font-weight: normal;
+}
+.wrapper a {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 5px;
+    color: #f10101;
+}
+.wrapper span a {
+    font-size: 14px;
+    
+  
+}
+.wrapper span {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    text-align: center;
+    width: 80%;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+#logo {
+  
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px;
+}
+#logo-img {
+      
+    width: 140px;
+    
+}
+
